@@ -175,7 +175,7 @@ Smart-Disaster-Monitoring-System/
 
 ### Prototype
 
-![Prototype](Images/Screenshot 2026-02-07 230239.png)
+![Prototype](Images/Screenshot%202026-02-07%20230239.png)
 
 ---
 
