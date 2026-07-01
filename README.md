@@ -171,6 +171,13 @@ Smart-Disaster-Monitoring-System/
 - Early Warning Systems
 
 ---
+## Project Images
+
+### Prototype
+
+![Prototype](Images/Screenshot 2026-02-07 230239.png)
+
+---
 
 ## Author
 
